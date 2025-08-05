@@ -1,0 +1,5 @@
+node_modules
+.env
+analyticaldashboard\backend\.env
+analyticaldashboard\backend\venv
+analyticaldashboard\backend\__pycache__
